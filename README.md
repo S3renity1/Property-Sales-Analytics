@@ -8,6 +8,8 @@ This project demonstrates end-to-end data engineering and analytics skills: web 
 
 ![Property Sales Dashboard](property-dashboard.png)
 
+Tableau Link: [Dashboard](https://public.tableau.com/app/profile/anthony.neav/viz/DashboardofPropertyPricesNSW/Dashboard1)
+
 *(Interactive dashboard showing historical trends, suburb-level insights, and key metrics like median sale price, sales volume, and growth rates.)*
 
 ## Project Overview
