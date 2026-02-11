@@ -36,7 +36,7 @@ Key features:
    - Standardize suburb names, addresses, property types
    - Correct date formats and outliers
    - Flag potential duplicates or errors
-4. **Analysis & Visualization** — Load cleaned data into Power BI (or Python viz libraries) to create interactive dashboards showing:
+4. **Analysis & Visualization** — Load cleaned data into Tableau (or Python viz libraries) to create interactive dashboards showing:
    - Price trends over time
    - Median prices by suburb/year
    - Volume of sales
@@ -48,7 +48,7 @@ Key features:
 - Data wrangling with large, messy, historical datasets
 - ETL pipeline development
 - Data quality & governance
-- Interactive business intelligence (Power BI)
+- Interactive business intelligence (Tableau)
 - Real-world application of data analytics to economic/property trends
 
 ## Data source
